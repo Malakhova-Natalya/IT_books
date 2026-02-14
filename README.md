@@ -2,5 +2,7 @@
 
 | Автор | Название книги | Язык | Тематика | Мои конспекты | Мой отзыв в тг-канале | Дата отзыва |
 | :--------------------: | :---------------------: | :---------------------------: | :---------------------: | :---------------------------: | :---------------------------: | :---------------------------: |
-| Bill Inmon | «Data Lake Architecture. Designing the Data Lake and Avoiding the Garbage Dump» | англ | - моделирование данных - Data Lake- подход Инмона | - | [ссылка](https://t.me/diary_musician_analyst/553) | 2026-02-07 |
+| Bill Inmon | «Data Lake Architecture. Designing the Data Lake and Avoiding the Garbage Dump» | англ | - моделирование данных \
+- Data Lake \
+- - подход Инмона | - | [ссылка](https://t.me/diary_musician_analyst/553) | 2026-02-07 |
 
