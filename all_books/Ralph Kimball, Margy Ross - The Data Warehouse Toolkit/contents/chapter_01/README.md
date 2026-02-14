@@ -2,7 +2,7 @@
 ## Introduction & Chapter 1
 ## Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
 
-## Вступление, основы
+### Вступление, основы
 
 Конспектирую краткое содержание:
 
