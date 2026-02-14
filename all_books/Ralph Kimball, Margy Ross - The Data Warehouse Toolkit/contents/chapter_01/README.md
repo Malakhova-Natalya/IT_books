@@ -51,7 +51,9 @@ Dimensional Modeling
 - таблицы фактов имеют связь многие-ко-многим 
 
 внешний ключ – FK – foreign key
+
 первичный ключ – PK – primary key
+
 составной (?) ключ – composite key
 
 Из неочевидного: 
