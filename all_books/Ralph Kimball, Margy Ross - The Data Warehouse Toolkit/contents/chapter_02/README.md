@@ -8,3 +8,16 @@
 ### Basic Fact Table Techniques
 
 ### Basic Dimensional Table Techniques
+
+### Integration via Conformed Dimensions
+
+### Dealing with Slowly Changing Dimension Attributes
+
+### Dealing with Dimension Hierarchies
+
+### Advanced Fact Table Techniques
+
+### Advanced Dimension Techniques
+
+
+### Special Purpose Schemas
