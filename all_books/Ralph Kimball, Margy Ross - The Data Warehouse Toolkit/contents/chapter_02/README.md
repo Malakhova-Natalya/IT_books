@@ -2,7 +2,7 @@
 
 ## Chapter 2 
 
-## Kimball Dimensional Modeling Techniques Overview / Обзор методов размерного моделирования Кимбалла
+## Kimball Dimensional Modeling Techniques Overview /<br> Обзор методов размерного моделирования Кимбалла
 
 
 Содержание:
