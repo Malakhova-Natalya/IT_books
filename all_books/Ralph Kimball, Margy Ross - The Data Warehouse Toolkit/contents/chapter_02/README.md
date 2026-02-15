@@ -1,7 +1,7 @@
 # Ralph Kimball, Margy Ross "The Data Warehouse Toolkit. The Definitive Guide to Dimensional Modeling" (Third Edition) 
 ***Ральф Кимбалл, Марги Росс «Инструментарий для хранилищ данных. Полное руководство по многомерному моделированию» (третье издание)***
 ## Chapter 2 
-***Глава 2***
+
 ## Kimball Dimensional Modeling Techniques Overview / Обзор методов размерного моделирования Кимбалла
 
 
