@@ -4,9 +4,9 @@
 
 
 Содержание:
-- [Fundamental Concepts](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#fundamental-concepts)
+- [Fundamental Concepts](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#fundamental-concepts) ***(Основные понятия)***
 
-- [Basic Fact Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball,%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-fact-table-techniques)
+- [Basic Fact Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball,%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-fact-table-techniques) 
 
 - [Basic Dimensional Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-dimensional-table-techniques)
 
@@ -93,17 +93,25 @@
 - грануляция таблицы фактов может быть сделана более детальной (atomic) пр ипомощи добавления атрибутов к существующей таблице измерений, и затем при помощи переформулирования таблицы фактов в более детальной грануляции (аккуратно сохраняя существующие наименования столбцов в таблицах фактов и измерений).
 
 ### Basic Fact Table Techniques
+***(Основные методы составления таблиц фактов)***
 
 ### Basic Dimensional Table Techniques
+***(Основные методы работы с размерными таблицами)***
 
 ### Integration via Conformed Dimensions
+***()***
 
 ### Dealing with Slowly Changing Dimension Attributes
+***(Интеграция посредством конформных размеров)***
 
 ### Dealing with Dimension Hierarchies
+***(Работа с иерархиями измерений)***
 
 ### Advanced Fact Table Techniques
+***(Передовые методы составления таблиц фактов)***
 
 ### Advanced Dimension Techniques
+***(Передовые методы измерения)***
 
 ### Special Purpose Schemas
+***(Схемы специального назначения)***
