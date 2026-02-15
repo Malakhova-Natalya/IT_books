@@ -1,7 +1,6 @@
 # Ralph Kimball, Margy Ross "The Data Warehouse Toolkit. The Definitive Guide to Dimensional Modeling" (Third Edition)
 ## Chapter 2
-## Kimball Dimensional Modeling Techniques Overview 
-## *Обзор методов размерного моделирования Кимбалла*
+## Kimball Dimensional Modeling Techniques Overview / Обзор методов размерного моделирования Кимбалла
 
 
 Содержание:
@@ -29,7 +28,8 @@
 
 Эта глава - "официальный" набор техник от создателей этих паттернов моделирования.
 
-### Fundamental Concepts / Основные понятия
+### Fundamental Concepts  
+### Основные понятия
 
 Техники этого раздела должны рассматриваться в течение разработки каждого дизайна многомерного моделирования.
 
