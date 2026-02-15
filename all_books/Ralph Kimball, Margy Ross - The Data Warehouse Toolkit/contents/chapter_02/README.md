@@ -3,7 +3,7 @@
 ## Kimball Dimensional Modeling Techniques Overview
 
 
-[Перейти к заголовку](###Fundamental Concepts)
+[Перейти к заголовку]([###Fundamental Concepts](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball,%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-fact-table-techniques))
 
 
 
