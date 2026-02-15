@@ -3,7 +3,7 @@
 ## Kimball Dimensional Modeling Techniques Overview
 
 
-[Перейти к заголовку](### Fundamental Concepts)
+[Перейти к заголовку](###Fundamental Concepts)
 
 
 
