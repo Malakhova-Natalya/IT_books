@@ -3,11 +3,7 @@
 ## Chapter 2 
 
 ## Kimball Dimensional Modeling Techniques Overview / Обзор методов размерного моделирования Кимбалла
-***Ральф Кимбалл, Марги Росс «Инструментарий для хранилищ данных. Полное руководство по многомерному моделированию» (третье издание)***
 
-***Глава 2***
-
-***Обзор методов размерного моделирования Кимбалла***
 
 Содержание:
 - [Fundamental Concepts](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#fundamental-concepts) *(Основные понятия)*
