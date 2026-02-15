@@ -80,7 +80,7 @@
 
 **Схема звезда и OLAP кубы**
 
-Схема звезда - это структура, развернутая в <span style="color:green"> relational database management system (RDBMS)</span>
+Схема звезда - это структура, развернутая в `relational database management system (RDBMS)`
 
 
    
