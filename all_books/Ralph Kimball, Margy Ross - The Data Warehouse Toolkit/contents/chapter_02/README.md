@@ -6,20 +6,20 @@
 Содержание:
 - [Fundamental Concepts](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#fundamental-concepts) *(Основные понятия)*
 
-- [Basic Fact Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball,%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-fact-table-techniques) ***(Основные методы составления таблиц фактов)***
+- [Basic Fact Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball,%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-fact-table-techniques) *(Основные методы составления таблиц фактов)*
 
-- [Basic Dimensional Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-dimensional-table-techniques) ***(Основные методы работы с размерными таблицами)***
+- [Basic Dimensional Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#basic-dimensional-table-techniques) *(Основные методы работы с размерными таблицами)*
 
-- [Integration via Conformed Dimensions](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#integration-via-conformed-dimensions) ***(Интеграция посредством конформных размеров)***
+- [Integration via Conformed Dimensions](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#integration-via-conformed-dimensions) *(Интеграция посредством конформных размеров)*
 
-- [Dealing with Slowly Changing Dimension Attributes](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#dealing-with-slowly-changing-dimension-attributes) ***(Работа с медленно изменяющимися атрибутами измерений)***
+- [Dealing with Slowly Changing Dimension Attributes](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#dealing-with-slowly-changing-dimension-attributes) *(Работа с медленно изменяющимися атрибутами измерений)*
 
-- [Dealing with Dimension Hierarchies](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#dealing-with-dimension-hierarchies) ***(Работа с иерархиями измерений)***
+- [Dealing with Dimension Hierarchies](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#dealing-with-dimension-hierarchies) *(Работа с иерархиями измерений)*
 
-- [Advanced Fact Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#advanced-fact-table-techniques) ***(Передовые методы составления таблиц фактов)***
+- [Advanced Fact Table Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#advanced-fact-table-techniques) *(Передовые методы составления таблиц фактов)*
 
-- [Advanced Dimension Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#advanced-dimension-techniques) ***(Передовые методы измерения)***
-- [Special Purpose Schemas](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#special-purpose-schemas) ***(Схемы специального назначения)***
+- [Advanced Dimension Techniques](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#advanced-dimension-techniques) *(Передовые методы измерения)*
+- [Special Purpose Schemas](https://github.com/Malakhova-Natalya/IT_books/blob/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit/contents/chapter_02/README.md#special-purpose-schemas) *(Схемы специального назначения)*
 
 
 Поначалу, со времен первого издания (1996), группа Кимбалла определила набор техник многомерного моделирования. Авторы чувствовали, что эти техники нужно представить через примеры знакомых кейсов различных индустрий. Они и до сих пор считают это хорошим педагогическим подходом. Но с тех пор эти техники стали настолько стандартизированы, что многие архитекторы начинают с техник, а затем уже переходят к примерам использования.
