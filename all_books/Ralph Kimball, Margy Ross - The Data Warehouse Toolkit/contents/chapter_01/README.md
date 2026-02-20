@@ -1,6 +1,6 @@
 # Ralph Kimball, Margy Ross "The Data Warehouse Toolkit. The Definitive Guide to Dimensional Modeling" (Third Edition)
 ## Introduction & Chapter 1
-## Data Warehousing, Business Intelligence, and Dimensional Modeling Primer /<br> Введение в хранилища данных, бизнес-аналитику и многомерное моделирование
+## Data Warehousing, Business Intelligence, and Dimensional Modeling Primer /<br> Введение в хранилища данных, бизнес-аналитику и размерное моделирование
 
 ### Вступление, основы
 
