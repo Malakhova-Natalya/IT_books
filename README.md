@@ -2,8 +2,7 @@
 
 | Автор | Название книги | Обложка | Язык | Тематика | Мои конспекты | Мой отзыв в тг-канале | Дата отзыва |
 | :--------------------: | :---------------------: | :---------------------------: | :---------------------: | :---------------------------: | :---------------------------: | :---------------------------: | :---------------------------: |
-| Владимир Савельев | "Статистика и котики" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8.jpg) | рус | 
-- статистика<br>
+| Владимир Савельев | "Статистика и котики" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8.jpg) | рус | - статистика<br>
 - анализ данных<br> | - | [ссылка](https://t.me/diary_musician_analyst/20) | 2022-07-10 |
 | Джин Желязны  | "Говори на языке диаграмм. Пособие по визуальным коммуникациям" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC.jpg) | рус | - визуализация данных | - | [ссылка](https://t.me/diary_musician_analyst/42) | 2022-07-26 |
 | Даниэль Канеман   | "Думай медленно... решай быстро" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%94%D1%83%D0%BC%D0%B0%D0%B9%20%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%2C%20%D1%80%D0%B5%D1%88%D0%B0%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE.jpg) | рус | - расширение кругозора около IT | - | [ссылка](https://t.me/diary_musician_analyst/88) | 2022-09-09 |
