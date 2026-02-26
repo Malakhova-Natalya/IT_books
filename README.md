@@ -18,8 +18,8 @@
 | Джо Рис, Мэтт Хоусли | «Основы инженерии данных» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.jpg) | рус | основные концепции в IT  | [2026-02-01](https://t.me/diary_musician_analyst/551) |
 | Bill Inmon | «Data Lake Architecture. Designing the Data Lake and Avoiding the Garbage Dump» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/Data%20Lake%20Architecture.jpg) | англ | моделирование данных | [2026-02-07](https://t.me/diary_musician_analyst/553) |
 | Ralph Kimaball, Margy Ross | «The Data Warehouse Toolkit. The Definitive Guide to Dimensional Modeling. Third Edition» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/The%20Data%20Warehouse%20Toolkit.jpg) | англ | моделирование данных | [конспект](https://github.com/Malakhova-Natalya/IT_books/tree/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit) |  
-
+| Патрик Ленсиони | "Пять пороков команды" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%9F%D1%8F%D1%82%D1%8C%20%D0%BF%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B.jpg) | рус | расширение кругозора около IT |  |
 
 <!-- Это скрытый текст -->
-<!--  | автор | название | ![cover]() | рус/англ | тематика | - | [дата отзыва]() / [конспект]() |  -->
+<!--  | автор | название | ![cover]() | рус/англ | тематика | [дата отзыва]() / [конспект]() |  -->
  
