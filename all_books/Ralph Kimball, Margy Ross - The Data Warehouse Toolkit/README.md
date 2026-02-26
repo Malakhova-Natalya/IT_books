@@ -24,8 +24,9 @@
   15. Electronic Commerce
   16. Insurance
 
-## 🗂️ Chapters 16-21
+## 🗂️ Chapters 17-21
 ✒️ contents: 
+
   17. Kimball DW/BI Lifecycle Overview
   
   18. Dimensional Modeling Process and Tasks
