@@ -19,5 +19,7 @@
 | Bill Inmon | «Data Lake Architecture. Designing the Data Lake and Avoiding the Garbage Dump» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/Data%20Lake%20Architecture.jpg) | англ | моделирование данных | - | [2026-02-07](https://t.me/diary_musician_analyst/553) |
 | Ralph Kimaball, Margy Ross | «The Data Warehouse Toolkit. The Definitive Guide to Dimensional Modeling. Third Edition» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/The%20Data%20Warehouse%20Toolkit.jpg) | англ | моделирование данных | [ссылка](https://github.com/Malakhova-Natalya/IT_books/tree/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit) |  |  |
 
-/* | автор | название | ![cover]() | рус/англ | тематика | - | [дата отзыва]() |  */
+
 <!-- Это скрытый текст -->
+<!--  | автор | название | ![cover]() | рус/англ | тематика | - | [дата отзыва]() |  -->
+ 
