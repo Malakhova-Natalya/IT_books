@@ -2,6 +2,13 @@
 
 | Автор | Название книги | Обложка | Язык | Тематика | Мои конспекты | Мой отзыв в тг-канале | Дата отзыва |
 | :--------------------: | :---------------------: | :---------------------------: | :---------------------: | :---------------------------: | :---------------------------: | :---------------------------: | :---------------------------: |
+| Владимир Савельев | "Статистика и котики" | ![cover]() | рус | - статистика<br> - анализ данных | - | [ссылка](https://t.me/diary_musician_analyst/20) | 2022-07-10 |
+| автор | название | ![cover]() | рус/англ | тематика | - | [ссылка]() | дата отзыва |
+| автор | название | ![cover]() | рус/англ | тематика | - | [ссылка]() | дата отзыва |
+| автор | название | ![cover]() | рус/англ | тематика | - | [ссылка]() | дата отзыва |
+| автор | название | ![cover]() | рус/англ | тематика | - | [ссылка]() | дата отзыва |
+| автор | название | ![cover]() | рус/англ | тематика | - | [ссылка]() | дата отзыва |
+| автор | название | ![cover]() | рус/англ | тематика | - | [ссылка]() | дата отзыва |
 | Джо Рис, Мэтт Хоусли | «Основы инженерии данных» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.jpg) | рус | - DE<br> - расширение кругозора<br>  | - | [ссылка](https://t.me/diary_musician_analyst/551) | 2026-02-01 |
 | Bill Inmon | «Data Lake Architecture. Designing the Data Lake and Avoiding the Garbage Dump» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/Data%20Lake%20Architecture.jpg) | англ | - моделирование данных<br> - Data Lake<br> - подход Инмона | - | [ссылка](https://t.me/diary_musician_analyst/553) | 2026-02-07 |
 | Ralph Kimaball, Margy Ross | «The Data Warehouse Toolkit. The Definitive Guide to Dimensional Modeling. Third Edition» | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/The%20Data%20Warehouse%20Toolkit.jpg) | англ | - моделирование данных<br> - Data Warehouse<br> - подход Кимбалла | [ссылка](https://github.com/Malakhova-Natalya/IT_books/tree/main/all_books/Ralph%20Kimball%2C%20Margy%20Ross%20-%20The%20Data%20Warehouse%20Toolkit) |  |  |
