@@ -9,20 +9,20 @@
 
 ## 🗂️ Chapters 3-16
 ✒️ contents: 
-- 3) Retail Sales
-- 4) Inventory
-  5) Procurement
-  6) Order Management
-  7) Accounting
-  8. Customer Relationship Management
-  9. Human Resources Management
-  10. Financial Services
-  11. Telecommunications
-  12. Transportation
-  13. Education
-  14. Healthcare
-  15. Electronic Commerce
-  16. Insurance
+- 3. Retail Sales
+- 4. Inventory
+- 5. Procurement
+- 6. Order Management
+- 7. Accounting
+- 8. Customer Relationship Management
+- 9. Human Resources Management
+- 10. Financial Services
+- 11. Telecommunications
+- 12. Transportation
+- 13. Education
+- 14. Healthcare
+- 15. Electronic Commerce
+- 16. Insurance
 
 ## 🗂️ Chapters 17-21
 ✒️ contents: 
