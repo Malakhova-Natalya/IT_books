@@ -9,7 +9,7 @@
 
 ## 🗂️ Chapters 3-16
 
-✒️ Contents:
+✒️ contents:
 
 3. Retail Sales
 4. Inventory
@@ -27,14 +27,11 @@
 16. Insurance
 
 ## 🗂️ Chapters 17-21
-✒️ contents: 
 
-  17. Kimball DW/BI Lifecycle Overview
-  
-  18. Dimensional Modeling Process and Tasks
+✒️ contents:
 
-  19. ETL Sybsystems and Techniques
-
-  20. ETL System and Development Process and Tasks
-  
-  21. Big Data Analytics
+17. Kimball DW/BI Lifecycle Overview
+18. Dimensional Modeling Process and Tasks
+19. ETL Subsystems and Techniques
+20. ETL System and Development Process and Tasks
+21. Big Data Analytics
