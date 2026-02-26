@@ -27,7 +27,11 @@
 ## 🗂️ Chapters 16-21
 ✒️ contents: 
   17. Kimball DW/BI Lifecycle Overview
+  
   18. Dimensional Modeling Process and Tasks
+
   19. ETL Sybsystems and Techniques
+
   20. ETL System and Development Process and Tasks
+  
   21. Big Data Analytics
