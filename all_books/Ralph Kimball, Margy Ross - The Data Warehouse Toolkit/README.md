@@ -9,7 +9,7 @@
 
 ## 🗂️ Chapters 3-16
 ✒️ contents: 
-  3. Retail Sales
+- 3. Retail Sales
   4. Inventory
   5. Procurement
   6. Order Management
