@@ -10,10 +10,10 @@
 ## 🗂️ Chapters 3-16
 ✒️ contents: 
 - 3) Retail Sales
-  4. Inventory
-  5. Procurement
-  6. Order Management
-  7. Accounting
+- 4) Inventory
+  5) Procurement
+  6) Order Management
+  7) Accounting
   8. Customer Relationship Management
   9. Human Resources Management
   10. Financial Services
