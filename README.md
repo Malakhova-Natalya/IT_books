@@ -25,7 +25,7 @@
 | Андрей Дороничев | "Новая версия" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%94%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D0%B2%20-%20%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F.png)| рус | менеджмент, управление | [2026-07-05](https://t.me/diary_musician_analyst/566) |
 | Марина Перескокова | "Мама, я тимлид! Практические советы по руководству IT-командой" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%9C%D0%B0%D0%BC%D0%B0%2C%20%D1%8F%20%D1%82%D0%B8%D0%BC%D0%BB%D0%B8%D0%B4.jpg)| рус | менеджмент, управление | [2026-08-08](https://t.me/diary_musician_analyst/577) |
 | Влад Хононов | "Изучаем DDD - предметно-ориентированное проектирование" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/%D0%92%D0%BB%D0%B0%D0%B4%20%D0%A5%D0%BE%D0%BD%D0%BE%D0%BD%D0%BE%D0%B2%20-%20%D0%98%D0%B7%D1%83%D1%87%D0%B0%D0%B5%D0%BC%20DDD.png) | рус | проектирование данных | [2026-09-05](https://t.me/diary_musician_analyst/579) |
-| Daniel Linstedt, Michael Olschimke | "Building A Scalable Data Warehouse With Data Vault 2.0" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/Data%20Vault%202.0.png) | англ | моделирование данных | [2026-10-хх]() |
+| Daniel Linstedt, Michael Olschimke | "Building A Scalable Data Warehouse With Data Vault 2.0" | ![cover](https://github.com/Malakhova-Natalya/IT_books/blob/main/books_covers/Data%20Vault%202.0.png) | англ | моделирование данных | [2026-10-03](https://t.me/diary_musician_analyst/581) |
 
 <!-- Это скрытый текст -->
 <!--  | автор | название | ![cover]() | рус/англ | тематика | [дата отзыва]() / [конспект]() |  -->
